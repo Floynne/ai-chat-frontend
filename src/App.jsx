@@ -4,6 +4,7 @@
 //          Версия: 3.3 "Абсолютный Монолит"
 // =================================================================
 
+import React from 'react'
 import { useState, useRef, useEffect, useCallback } from 'react';
 import Markdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
